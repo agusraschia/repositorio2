@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/*imports*/
+header {
+  height: 30vh;
+  background-color: black; }
+
+.header__texto--color {
+  color: white; }
+
+.header_texto--tamaño {
+  font-size: 4em; }
+
+main {
+  height: 150vh;
+  background-color: red; }
+
+.main__parrafo--decoracion {
+  text-decoration: line-through; }
+
+.main__foto2--tamaño {
+  width: 400px; }
+
+.main__foto1--tamaño {
+  width: 300px; }
+
+.main__parrafo2--tamaño {
+  font-size: 0.5em; }
+
+footer {
+  height: 20vh;
+  background-color: orange; }
+
+.footer__lista--color {
+  color: green; }
+
+.footer__titulo--color {
+  color: purple; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+p {
+  color: white;
+  font-size: 2em; }
+  p span {
+    color: black; }
+
+h1 {
+  color: yellow; }
